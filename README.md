@@ -56,3 +56,6 @@ This project analyzes employee attrition trends using the **IBM HR Analytics Dat
 ✅ **Enhance compensation structures** for lower-wage employees to reduce financial dissatisfaction.  
 ✅ **Introduce targeted retention programs** for high-turnover departments like Sales and IT.  
 ✅ **Revise business travel policies** to support frequent travelers and reduce burnout.  
+
+![image](https://github.com/user-attachments/assets/722d4455-a1e4-4791-b6e4-08d7ba971a0b)
+
